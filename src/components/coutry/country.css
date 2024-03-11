@@ -1,0 +1,23 @@
+* {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.country {
+  border: 2px solid seagreen;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: aliceblue;
+}
+
+.country img {
+  width: 150px;
+}
+.markVisited img{
+    width: 150px;
+}
+
+.markVisited {
+  border: 2px solid seagreen;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(165, 205, 205);
+}
